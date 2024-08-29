@@ -1,6 +1,6 @@
 # React Native FinTech Clone with Clerk
 
-This is a React Native FinTech clone using [Clerk](https://go.clerk.com/tQXLCe8) for user authentication with OTP. This app was inspired by the [Revolut](https://www.revolut.com/) app.
+This is a React Native FinTech clone using [Clerk](https://go.clerk.com/tQXLCe8) for user authentication with OTP. This app was inspired by the fintech app.
 
 Additional features:
 
@@ -37,14 +37,7 @@ Additional features:
 <img src="./screenshots/state.gif" width=30%>
 <img src="./screenshots/lockscreen.gif" width=30%>
 <img src="./screenshots/charts.gif" width=30%>
-<img src="./screenshots/icon.gif" width=30%>
+
 
 </div>
 
-## 🚀 More
-
-**Take a shortcut from web developer to mobile development fluency with guided learning**
-
-Enjoyed this project? Learn to use React Native to build production-ready, native mobile apps for both iOS and Android based on your existing web development skills.
-
-<a href="https://galaxies.dev"><img src="banner.png" height="auto" width="100%"></a>
